@@ -17,3 +17,5 @@ def fizzbuzz(n):
             s += "bang"
         else:
             s += i
+
+    print(s)
